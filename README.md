@@ -18,6 +18,10 @@ This is a fun project created for face detection and emotion recognition. Applic
 pip install streamlit opencv-python 
 ```
 
+## Running it
+```
+streamlit run facereg_v3.py
+```
 ## Disclaimer
 Majority of the code is taken from opencv and Modified using prompt engineering and debugged manually which were not fixed by prompting.
 
