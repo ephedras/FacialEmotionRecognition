@@ -85,8 +85,8 @@ backend_target_pairs = {
 # Function to initialize the models
 def initialize_models():
     global detect_model, fer_model
-    detect_model = YuNet(modelPath=r'models\face_detection_yunet_2023mar.onnx')
-    fer_model = FacialExpressionRecog(modelPath=r'models\facial_expression_recognition_mobilefacenet_2022july_int8.onnx',
+    detect_model = YuNet(modelPath='models/face_detection_yunet_2023mar.onnx')
+    fer_model = FacialExpressionRecog(modelPath='models/facial_expression_recognition_mobilefacenet_2022july_int8.onnx',
                                       backendId=backend_target_pairs['default'][0],
                                       targetId=backend_target_pairs['default'][1])
 
