@@ -6,11 +6,18 @@ This is a fun project created for face detection and emotion recognition. Applic
 2. Customer Analytics
 3. Patient Monitoring
 4. Driver Monitoring
-5. Attendance Management( I personally would hate this though!)
+5. Attendance Management( I personally would hate this though! 😠😠😠)
 6. Student Engagement
-7. Interactive Experiences (for gaming ... I would definitely love adjusting dynamics of the game with change in expressions of players )
+7. Interactive Experiences (for gaming ... I would definitely love adjusting dynamics of the game with change in expressions of players 😲😲 )
 8. Criminal Investigations
 9. Identity Verification
 10. Recruitment : Behaviour patterns duing interviews could give insights on persons' suitablity for roles.
 
+## Requirements
+```
+pip install streamlit opencv-python 
+```
+
+## Disclaimer
+Majority of the code is taken from opencv and Modified using prompt engineering and debugged manually which were not fixed by prompting.
 
