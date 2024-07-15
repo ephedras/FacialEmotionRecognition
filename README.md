@@ -25,3 +25,9 @@ streamlit run facereg_v3.py
 ## Disclaimer
 Majority of the code is taken from opencv and Modified using prompt engineering and debugged manually which were not fixed by prompting.
 Lot of bugs and optimisation issues might be there. This is just a helper code. Have fun!
+
+## Demo
+
+
+https://github.com/user-attachments/assets/aecaf4e2-7c94-46a0-8ade-ab6399b6c6c5
+
