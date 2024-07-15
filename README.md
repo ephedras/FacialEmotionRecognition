@@ -1,6 +1,6 @@
 # FacialEmotionRecognition
 
-This is a fun project created for face detection and emotion recognition. Application wise we could use this idea or even advanced version of these for but not limited to :
+This is a fun project created for face detection and emotion recognition. Application wise we could use this idea or even advanced version of these for under mentioned areas:
 
 1. Security and Surveillance
 2. Customer Analytics
